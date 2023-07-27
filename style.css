@@ -25,8 +25,8 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
-  background-color: #1b1b32;
+  color:  rgb(248, 210, 174);
+  background-color: #1e1d5a;
 }
 
 .seccion-clara {
@@ -265,7 +265,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: rgb(208, 98, 241);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
